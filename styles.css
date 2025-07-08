@@ -331,6 +331,14 @@ section {
   transition: transform 0.3s ease;
   width: 100%;
   max-width: 500px;
+  display: flex;
+  align-items: center;
+}
+.portfolio-item video {
+  height: 80px; /* Increased from 60px */
+  width: auto;
+  object-fit: contain;
+  filter: brightness(1.1);
 }
 
 .portfolio-item:hover {
