@@ -333,11 +333,10 @@ section {
   max-width: 500px;
 }
 .portfolio-image video {
-  padding: 10px;
   height: 60px; /* Increased from 60px */
   width: auto;
   object-fit: contain;
-  filter: brightness(2.1);
+  filter: brightness(2);
   display: flex;
   align-items: center;
 }
