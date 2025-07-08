@@ -333,7 +333,7 @@ section {
   max-width: 500px;
 }
 .portfolio-image video {
-  height: 100px; /* Increased from 60px */
+  height: 200px; /* Increased from 60px */
   width: auto;
   object-fit: contain;
   filter: brightness(1.1);
